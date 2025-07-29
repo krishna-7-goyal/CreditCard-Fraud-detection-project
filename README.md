@@ -72,12 +72,12 @@ Key highlights:
 ---
 
 ## 📦 Project Structure
-├── app.py # Streamlit deployment code
-├── fraud_model.pkl # Trained XGBoost model
-├── model_features.pkl # Feature columns used by the model
-├── fraud_balanced.csv # Balanced training dataset
-├── requirements.txt # List of Python dependencies
-└── README.md # Project overview
+- ├── app.py # Streamlit deployment code
+- ├── fraud_model.pkl # Trained XGBoost model
+- ├── model_features.pkl # Feature columns used by the model
+- ├── fraud_balanced.csv # Balanced training dataset
+- ├── requirements.txt # List of Python dependencies
+- └── README.md # Project overview
 
 ---
 
